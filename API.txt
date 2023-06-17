@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=bekasi&appid=705a6deb5cbd0a027f801d77faf8af73&units=matric
